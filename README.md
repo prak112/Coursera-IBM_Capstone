@@ -1,6 +1,6 @@
 # Coursera-IBM_Capstone
 Final Projects of IBM Data Science Professional Certification 
-* **Data source** - *Wikipedia, FourSquare API*
+* **Data sources** - *Wikipedia, FourSquare API*
 * **Libraries** - *BeautifulSoup, re, pandas, geocoder, folium, requests, sklearn, matplotlib*
 * **Techniques** - *Data Import, Data Extraction, Data Cleaning & Understanding, Geospatial Visualization, Clustering*
 
